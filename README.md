@@ -6,7 +6,7 @@
        title="Horror ficton"
        author="Isaac Gbadebo"
        banner="https://imageio.forbes.com/specials-images/imageserve/5d373f30f1176b0008976b5b/0x0.jpg?format=jpg&width=1200&fit=bounds">
-
+      
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
@@ -67,3 +67,9 @@ A menace that is impure — that violates the generally accepted schemes of cult
 # References
 
 [^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+ Carroll, Noël (1990). The Philosophy of Horror or Paradoxes of the Heart. New York, NY: Routledge. pp. 28, 36, 53. ISBN 0-415-90145-6. Art-horror requires evaluation both in terms of threat and disgust. ... some emotional states are the cognitive-evaluative sort. And, of course, I would hold that art-horror is one of these. ... The audience's psychological state, therefore, diverges from the psychological state of characters in respect of belief, but converges on that of characters with respect to the way in which the properties of said monsters are emotively assessed.
+ Cuddon, J.A. (1984). "Introduction". The Penguin Book of Horror Stories. Harmondsworth: Penguin. p. 11. ISBN 0-14-006799-X.
+ Jackson, Rosemary (1981). Fantasy: The Literature of Subversion. London: Methuen. pp. 53–5, 68–9.
+ "Even Ancient Greeks and Romans Enjoyed Good Scary Stories, Professor Says". phys.org. Retrieved 2 September 2020.
+ Though the sub-title of Frankenstein references the titan Prometheus, none of the ancient myths about Prometheus is itself a horror tale.
+ * Edward P. Coleridge, 1891, prose: full text Archived 12 April 2006 at the Wayback Machine
