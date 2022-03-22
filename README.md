@@ -35,13 +35,34 @@ Elements of the horror genre also occur in Biblical texts, notably in the Book o
 ## 21st century
 
 Best-selling book series of contemporary times exist in genres related to horror fiction, such as the werewolf fiction urban fantasy Kitty Norville books by Carrie Vaughn (2005 onward). Horror elements continue to expand outside the genre. The alternate history of more traditional historical horror in Dan Simmons's 2007 novel The Terror sits on bookstore shelves next to genre mash ups such as Pride and Prejudice and Zombies (2009), and historical fantasy and horror comics such as Hellblazer (1993 onward) and Mike Mignola's Hellboy (1993 onward). Horror also serves as one of the central genres in more complex modern works such as Mark Z. Danielewski's House of Leaves (2000), a finalist for the National Book Award. There are many horror novels for teens, such as The Monstrumologist by Rick Yancey (2009). Additionally, many movies, particularly animated ones, use a horror aesthetic. These are what can be collectively referred to as "children's horror".[33] Although it's unknown for sure why children enjoy these movies (as it seems counter-intuitive), it is theorized that it is the grotesque monsters that fascinate kids.[33] Tangential to this, the internalized impact of horror television programs and films on children is rather under-researched, especially when compared to the research done on the similar subject of violence in TV and film's impact on the young mind. What little research there is tends to be inconclusive on the impact that viewing such media has.[34]
-## Multiple viewers
 
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
-Others are selectable using icons displayed in the top right margin of the paragraph.
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-<param ve-map center="Q36600" zoom="11">
+## Characteristics
+
+One defining trait of the horror genre is that it provokes an emotional, psychological, or physical response within readers that causes them to react with fear. One of H. P. Lovecraft's most famous quotes about the genre is that: "The oldest and strongest emotion of mankind is fear, and the oldest and strongest kind of fear is fear of the unknown."[35] the first sentence from his seminal essay, "Supernatural Horror in Literature". Science fiction historian Darrell Schweitzer has stated, "In the simplest sense, a horror story is one that scares us" and "the true horror story requires a sense of evil, not in necessarily in a theological sense; but the menaces must be truly menacing, life-destroying, and antithetical to happiness."[36]
+
+In her essay "Elements of Aversion", Elizabeth Barrette articulates the need by some for horror tales in a modern world:
+
+The old "fight or flight" reaction of our evolutionary heritage once played a major role in the life of every human. Our ancestors lived and died by it. Then someone invented the fascinating game of civilization, and things began to calm down. Development pushed wilderness back from settled lands. War, crime, and other forms of social violence came with civilization and humans started preying on each other, but by and large daily life calmed down. We began to feel restless, to feel something missing: the excitement of living on the edge, the tension between hunter and hunted. So we told each other stories through the long, dark nights. when the fires burned low, we did our best to scare the daylights out of each other. The rush of adrenaline feels good. Our hearts pound, our breath quickens, and we can imagine ourselves on the edge. Yet we also appreciate the insightful aspects of horror. Sometimes a story intends to shock and disgust, but the best horror intends to rattle our cages and shake us out of our complacency. It makes us think, forces us to confront ideas we might rather ignore, and challenges preconceptions of all kinds. Horror reminds us that the world is not always as safe as it seems, which exercises our mental muscles and reminds us to keep a little healthy caution close at hand.[37]
+
+In a sense similar to the reason a person seeks out the controlled thrill of a roller coaster, readers in the modern era seek out feelings of horror and terror to feel a sense of excitement. However, Barrette adds that horror fiction is one of the few mediums where readers seek out a form of art that forces themselves to confront ideas and images they "might rather ignore to challenge preconceptions of all kinds."
+
+One can see the confrontation of ideas that readers and characters would "rather ignore" throughout literature in famous moments such as Hamlet's musings about the skull of Yorick, its implications of the mortality of humanity, and the gruesome end that bodies inevitably come to. In horror fiction, the confrontation with the gruesome is often a metaphor for the problems facing the current generation of the author.
+
+There are many theories as to why people enjoy being scared. For example, "people who like horror films are more likely to score highly for openness to experience, a personality trait linked to intellect and imagination."[38]
+
+It is a now commonly accepted viewpoint that the horror elements of Dracula's portrayal of vampirism are metaphors for sexuality in a repressed Victorian era.[39] But this is merely one of many interpretations of the metaphor of Dracula. Jack Halberstam postulates many of these in his essay Technologies of Monstrosity: Bram Stoker's Dracula. He writes:
+
+[The] image of dusty and unused gold, coins from many nations and old unworn jewels, immediately connects Dracula to the old money of a corrupt class, to a kind of piracy of nations and to the worst excesses of the aristocracy.[40]
+
+
+Illustration from an 1882 issue of Punch: An English editorial cartoonist conceives the Irish Fenian movement as akin to Frankenstein's monster, in the wake of the Phoenix Park killings.
+Menacing villains and monsters in horror literature can often be seen as metaphors for the fears incarnate of a society.
+Halberstram articulates a view of Dracula as manifesting the growing perception of the aristocracy as an evil and outdated notion to be defeated. The depiction of a multinational band of protagonists using the latest technologies (such as a telegraph) to quickly share, collate, and act upon new information is what leads to the destruction of the vampire. This is one of many interpretations of the metaphor of only one central figure of the canon of horror fiction, as over a dozen possible metaphors are referenced in the analysis, from the religious to the anti-semitic.[41]
+
+Noël Carroll's Philosophy of Horror postulates that a modern piece of horror fiction's "monster", villain, or a more inclusive menace must exhibit the following two traits:
+
+A menace that is threatening — either physically, psychologically, socially, morally, spiritually, or some combination of the aforementioned.
+A menace that is impure — that violates the generally accepted schemes of cultural categorization. "We consider impure that which is categorically contradictory".[42]
 
 # References
 
