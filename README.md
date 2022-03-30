@@ -5,7 +5,7 @@
 <param ve-config 
        title="Horror ficton"
        author="Isaac Gbadebo"
-       banner="https://www.google.com/url?sa=i&url=https%3A%2F%2Fguerillamethod.com%2Fesports-wallpaper%2F&psig=AOvVaw1AiQLwh7IdAXqG1-MH84DR&ust=1648735495029000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPjfhb6A7vYCFQAAAAAdAAAAABAD"
+       
       
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
