@@ -1,8 +1,8 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Girl with a Pearl Earring"
-       author="JSTOR Labs team"
+       title="Esports"
+       author="Isaac Gbadebo"
        banner="https://guerillamethod.com/wp-content/uploads/2019/05/esports-wallpaper.jpg" 
        layout="vertical">
 
