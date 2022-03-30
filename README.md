@@ -9,7 +9,10 @@
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
-
+<param ve-entity eid="Q185372"> <!-- Girl with a Pearl Earring painting -->
+<param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
+<param ve-entity eid="Q221092"> <!-- Mauritshuis -->
+<param ve-entity eid="Q36600"> <!-- The Hague -->
 
 # Sample visual essay
 
@@ -28,7 +31,7 @@ dated c. 1665. Going by various names over the centuries, it became known by its
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+       url="https://lolstatic-a.akamaihd.net/frontpage/apps/prod/rg-league-display-2017/en_US/cb24025fade09e3f965776440dffcc65024d3266/assets/img/share/displays_1024.jpg">
 
 ## Map
 
