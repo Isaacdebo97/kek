@@ -16,34 +16,23 @@
 
 # Esports
 
-This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
-<param ve-image 
-       manifest="https://lolstatic-a.akamaihd.net/frontpage/apps/prod/rg-league-display-2017/en_US/cb24025fade09e3f965776440dffcc65024d3266/assets/img/content/splash/content-original-championillustrations-group-slashes.jpg">
 
-# Basic usage
+## Esports
 
-## Image
-
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
-dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
-20th century after the earring worn by the girl portrayed there.[^1]
+Esports, short for electronic sports, is a form of competition using video games.[1] Esports often takes the form of organized, multiplayer video game competitions, particularly between professional players, individually or as teams. Although organized competitions have long been a part of video game culture, these were largely between amateurs until the late 2000s, when participation by professional gamers and spectatorship in these events through live streaming saw a large surge in popularity.[2][3] By the 2010s, esports was a significant factor in the video game industry, with many game developers actively designing and providing funding for tournaments and other events..[^1]
 <param ve-image 
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
        url="https://lolstatic-a.akamaihd.net/frontpage/apps/prod/rg-league-display-2017/en_US/cb24025fade09e3f965776440dffcc65024d3266/assets/img/share/displays_1024.jpg">
 
-## Map
+## History
 
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
-literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
+The earliest known video game competition took place on 19 October 1972 at Stanford University for the game Spacewar. Stanford students were invited to an "Intergalactic spacewar olympics" whose grand prize was a year's subscription for Rolling Stone, with Bruce Baumgart winning the five-man-free-for-all tournament and Tovar and Robert E. Maas winning the team competition.
 
-## Multiple viewers
+## Olympic Games recognition
 
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
-Others are selectable using icons displayed in the top right margin of the paragraph.
-<param ve-image 
+The Olympic Games are also seen as a potential method to legitimize esports. A summit held by the International Olympic Committee (IOC) in October 2017 acknowledged the growing popularity of esports, concluding that "Competitive 'esports' could be considered as a sporting activity, and the players involved prepare and train with an intensity which may be comparable to athletes in traditional sports" but would require any games used for the Olympics fitting "with the rules and regulations of the Olympic movement".[113] Another article by Andy Stout suggests that 106 million people viewed the 2017 Worlds Esports competition.[
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 <param ve-map center="Q36600" zoom="11">
 
