@@ -29,9 +29,8 @@ The earliest known video game competition took place on 19 October 1972 at Stanf
 
 ## Olympic Games recognition
 
-The Olympic Games are also seen as a potential method to legitimize esports. A summit held by the International Olympic Committee (IOC) in October 2017 acknowledged the growing popularity of esports, concluding that "Competitive 'esports' could be considered as a sporting activity, and the players involved prepare and train with an intensity which may be comparable to athletes in traditional sports" but would require any games used for the Olympics fitting "with the rules and regulations of the Olympic movement".[113] Another article by Andy Stout suggests that 106 million people viewed the 2017 Worlds Esports competition.[
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-<param ve-map center="Q36600" zoom="11">
+The Olympic Games are also seen as a potential method to legitimize esports. A summit held by the International Olympic Committee (IOC) in October 2017 acknowledged the growing popularity of esports, concluding that "Competitive 'esports' could be considered as a sporting activity, and the players involved prepare and train with an intensity which may be comparable to athletes in traditional sports" but would require any games used for the Olympics fitting "with the rules and regulations of the Olympic movement".[113] Another article by Andy Stout suggests that 106 million people viewed the 2017 Worlds Esports competition.
+       
 
 # References
 
