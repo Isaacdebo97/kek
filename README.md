@@ -39,6 +39,5 @@ Realising this booming market, some brands have made significant esports market 
 Check out the mini podcast episode about Esports here! https://open.spotify.com/show/7w6hQZKlZejBcjbFcOAcIE
 
 
-# References
-Newzoo.com
+
 
